@@ -5,3 +5,7 @@ It compares two files and lists just the sections that have changes, making the 
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
 If you ever need to go back and fix something, or go back and work from an earlier state, it would make things much easier.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Git is designed for coding, where multiple files are constantly interrelated and need to be saved together. Other systems are not.
